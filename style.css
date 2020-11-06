@@ -11,3 +11,7 @@ footer {
     align-items: center; 
     justify-content: center; 
   } 
+
+  .card{
+    left: 430px !important;
+  }
