@@ -3,9 +3,6 @@ background-image: url(https://www.publicdomainpictures.net/pictures/40000/velka/
 
 
 }
-
-
-
 footer { 
     display: flex; 
     align-items: center; 
@@ -14,4 +11,9 @@ footer {
 
   .card{
     left: 430px !important;
+  }
+
+  .carousel .item {
+    height: 100px !important;
+    width: 100px !important;
   }
