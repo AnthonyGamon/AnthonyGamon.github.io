@@ -70,11 +70,12 @@ img {
     height: 340px;
     width: 255px;
     float: left;
+   
     
     
 }
 p{
-    padding: 10px;
+    padding: 20px;
     padding-left: 10px;
     margin: auto;
     
@@ -166,4 +167,19 @@ p{
 h2{
     font-size: 35px;
     color: #b38d97;
+}
+
+h4{
+  font-size: 25px;
+  word-wrap: normal;
+  color: #c5baaf;
+}
+.fab{
+  padding: 20px;
+}
+.far{
+  padding: 20px;
+}
+.fas{
+  padding: 20px;
 }
