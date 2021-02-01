@@ -51,6 +51,7 @@ body {
     height: auto ;
     
     
+    
 }
 .container4{
     background-color: #45494E;
@@ -182,4 +183,14 @@ h4{
 }
 .fas{
   padding: 20px;
+}
+
+h5{
+  text-align: center;
+  font-size: 15px;
+}
+#skillsDiv{
+
+padding-left: 80px;
+
 }
