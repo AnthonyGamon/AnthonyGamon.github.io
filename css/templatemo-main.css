@@ -354,7 +354,7 @@ footer {
 }
 
 footer .primary-button {
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 
 footer ul {
@@ -446,4 +446,9 @@ footer p {
   .container {
     max-width: 1170px;
   }
+}
+h6{
+  padding: 5px;
+  color: #fff;
+  font-size: 12px;
 }
